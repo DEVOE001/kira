@@ -29,11 +29,11 @@ https://devoeverse.com devoeverse
 body {
 	font-family: 'Outfit', sans-serif;
 	background-image:url("logo3.jpg");
-	background-size:cover;
+	background-size:contain;
 	background-position:center;
 	background-repeat:no-repeat;
 	background-color:black;
-	min-height:300vh;
+	min-height:100vh;
 	min-width:;
 	color:pink;
 	overflow-x: hidden;
