@@ -36,6 +36,9 @@ body {
 	margin:0;
 	color:pink;
 }
+.content{
+	position:relative;
+}
 
 /* Ambient Background */
 .ambient-bg {
