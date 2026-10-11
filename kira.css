@@ -30,14 +30,13 @@ body {
 	font-family: 'Outfit', sans-serif;
 	background-image:url("logo3.jpg");
 	background-size:cover;
-	background-position:center;
+	background-position:;
 	background-repeat:no-repeat;
 	background-color:black;
 	min-height:300vh;
 	min-width:;
 	color:pink;
 	overflow-x: hidden;
-	min-height: 100vh;
 }
 @media(max-width:768px) {
 	body{ 
