@@ -27,13 +27,17 @@ https://devoeverse.com devoeverse
 }
 
 body {
+	maegin:0;
+}
+body::before{
+	content:"";
+	position:fixed;
+	inset:0;
 	font-family: 'Outfit', sans-serif;
 	background-image:url("logo3.jpg");
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
-	background-attachment:fixed;
-	margin:0;
 	z-index:-1;
 	color:pink;
 }
