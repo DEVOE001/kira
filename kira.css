@@ -45,6 +45,7 @@ body {
 		background-size:cover;
 		background-color:black;
 		min-height:200vh;
+		min-width:200vh;
 	}
 }
 
