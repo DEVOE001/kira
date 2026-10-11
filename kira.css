@@ -42,7 +42,7 @@ body {
 @media(max-width:768px) {
 	body{ 
 		background-position:center;
-		background-size:contain;
+		background-size:cover;
 		background-color:black;
 	}
 }
