@@ -33,19 +33,10 @@ body {
 	background-position:;
 	background-repeat:no-repeat;
 	background-color:black;
-	min-height:300vh;
+	min-height:100vh;
 	min-width:;
 	color:pink;
 	overflow-x: hidden;
-}
-@media(max-width:768px) {
-	body{ 
-		background-position:center;
-		background-size:cover;
-		background-color:black;
-		min-height:200vh;
-		min-width:200vh;
-	}
 }
 
 /* Ambient Background */
