@@ -27,7 +27,8 @@ https://devoeverse.com devoeverse
 }
 
 body {
-	maegin:0;
+	margin:0;
+	color:pink;
 }
 body::before{
 	content:"";
@@ -39,7 +40,6 @@ body::before{
 	background-position:center;
 	background-repeat:no-repeat;
 	z-index:-1;
-	color:pink;
 }
 .content{
 	position:relative;
